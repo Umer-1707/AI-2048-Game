@@ -54,8 +54,8 @@ This allows it to suggest smarter and more reliable moves during gameplay.
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
-cd 2048-AI-Game
+git clone https://github.com/Umer-1707/AI-2048-Game.git
+cd AI-2048-Game
 ```
 
 2. Install dependencies:
@@ -97,7 +97,7 @@ This project helped me understand:
 
 ## 👨‍💻 Author
 
-**Umer Ahmed**
+**Muhammad Umer**
 
 ## ⭐ Final Thoughts
 
