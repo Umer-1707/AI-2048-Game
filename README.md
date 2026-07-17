@@ -39,13 +39,16 @@ This allows it to suggest smarter and more reliable moves during gameplay.
 ## 📁 Project Structure
 
 ```
-2048-AI-Game/
-│── main.py
-│── gui.py
+AI-2048-Game/
+│── assets/
+│   └── splash.png
+│── ai_assistant.py
 │── board.py
 │── expectimax.py
-│── splash.png
+│── gui.py
+│── main.py
 │── requirements.txt
+│── .gitignore
 └── README.md
 ```
 
