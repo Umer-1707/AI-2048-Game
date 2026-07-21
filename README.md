@@ -75,7 +75,7 @@ python main.py
 
 ## ⚠️ Notes
 
-* Make sure `splash.png` is in the root directory
+* Make sure assets/splash.png exists 
 * Works best in full-screen mode
 * Arrow keys are recommended for smoother gameplay
 
